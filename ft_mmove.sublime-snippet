@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_memmove($0);]]></content>
+<tabTrigger>mmove</tabTrigger>
+</snippet>

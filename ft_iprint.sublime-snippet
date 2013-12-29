@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_isprint($0);]]></content>
+<tabTrigger>iprint</tabTrigger>
+</snippet>

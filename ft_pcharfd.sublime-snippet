@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_putchar_fd($0);]]></content>
+<tabTrigger>pcharfd</tabTrigger>
+</snippet>

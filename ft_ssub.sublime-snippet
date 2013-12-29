@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_strsub($0);]]></content>
+<tabTrigger>ssub</tabTrigger>
+</snippet>

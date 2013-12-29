@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_lstadd($0);]]></content>
+<tabTrigger>ladd</tabTrigger>
+</snippet>

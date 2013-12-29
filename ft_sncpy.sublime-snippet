@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_strncpy($0);]]></content>
+<tabTrigger>sncpy</tabTrigger>
+</snippet>

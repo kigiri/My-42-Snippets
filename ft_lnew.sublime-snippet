@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_lstnew($0);]]></content>
+<tabTrigger>lnew</tabTrigger>
+</snippet>

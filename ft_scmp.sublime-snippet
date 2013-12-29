@@ -1,0 +1,3 @@
+<snippet><content><![CDATA[ft_strcmp($0);]]></content>
+<tabTrigger>scmp</tabTrigger>
+</snippet>

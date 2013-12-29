@@ -1,0 +1,10 @@
+<snippet>
+	<description>#ifndef … #define … #endif</description>
+	<content>
+<![CDATA[#ifndef __${1:${TM_FILENAME/(.*)\.[^.]+$/\U\1/g}_H}__
+# define __$1__
+#endif /* !__$1__ */]]>
+	</content>
+	<tabTrigger>#if</tabTrigger>
+	<scope>source.c, source.c++, source.objc, source.objc++</scope>
+</snippet>
